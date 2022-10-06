@@ -1,5 +1,5 @@
 import React from 'react'
-import Lottie from 'lottie-react'
+import Lottie from 'lottie-react';
 import reader from '../assets/reader.json'
 
 const Home = () => {
